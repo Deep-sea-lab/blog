@@ -4,11 +4,19 @@
         <title>深海小栈</title>
         <link>https://blog.deep-sea.dpdns.org</link>
         <description>Hello World</description>
-        <lastBuildDate>Thu, 01 May 2025 06:37:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 May 2025 07:00:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>深海</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present 深海</copyright>
+        <item>
+            <title><![CDATA[NPM、PNPM 和 NPX 超详细教程]]></title>
+            <link>https://blog.deep-sea.dpdns.org/posts/2025/0505</link>
+            <guid>https://blog.deep-sea.dpdns.org/posts/2025/0505</guid>
+            <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[NPM、PNPM 和 NPX 超详细教程]]></description>
+            <author>lcx1029lcx1029@dingtalk.com (深海)</author>
+        </item>
         <item>
             <title><![CDATA[《無名の主页终极部署手册：从API到彩蛋的保姆级教学》]]></title>
             <link>https://blog.deep-sea.dpdns.org/posts/2025/0421</link>
