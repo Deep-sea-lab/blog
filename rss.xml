@@ -4,11 +4,19 @@
         <title>深海小栈</title>
         <link>https://blog.deep-sea.dpdns.org</link>
         <description>Hello World</description>
-        <lastBuildDate>Sat, 24 May 2025 10:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 May 2025 13:01:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>深海</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present 深海</copyright>
+        <item>
+            <title><![CDATA[紧急！MetingAPIJS作者把歌曲数量限制在了200内？]]></title>
+            <link>https://blog.deep-sea.dpdns.org/posts/2025/0524</link>
+            <guid>https://blog.deep-sea.dpdns.org/posts/2025/0524</guid>
+            <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[修改metingapi歌曲数量限制的方法]]></description>
+            <author>lcx1029lcx1029@dingtalk.com (深海)</author>
+        </item>
         <item>
             <title><![CDATA[NPM、PNPM 和 NPX 超详细教程]]></title>
             <link>https://blog.deep-sea.dpdns.org/posts/2025/0505</link>
