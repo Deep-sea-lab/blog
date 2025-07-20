@@ -2,65 +2,65 @@
 <rss version="2.0">
     <channel>
         <title>深海小栈</title>
-        <link>https://blog.deep-sea.ggff.net</link>
+        <link>https://blog.deep-sea.filegear-sg.me</link>
         <description>Hello World</description>
-        <lastBuildDate>Sat, 12 Jul 2025 09:04:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Jul 2025 12:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>深海</generator>
         <language>zh</language>
         <copyright>Copyright © 2020-present 深海</copyright>
         <item>
             <title><![CDATA[修改imsyy主页的字体方法]]></title>
-            <link>https://blog.deep-sea.ggff.net/posts/2025/0607</link>
-            <guid>https://blog.deep-sea.ggff.net/posts/2025/0607</guid>
+            <link>https://blog.deep-sea.filegear-sg.me/posts/2025/0607</link>
+            <guid>https://blog.deep-sea.filegear-sg.me/posts/2025/0607</guid>
             <pubDate>Fri, 06 Jun 2025 16:00:00 GMT</pubDate>
             <description><![CDATA[修改imsyy主页的字体方法]]></description>
             <author>lcx1029lcx1029@dingtalk.com (深海)</author>
         </item>
         <item>
             <title><![CDATA[紧急！MetingAPIJS作者把歌曲数量限制在了200内？]]></title>
-            <link>https://blog.deep-sea.ggff.net/posts/2025/0524</link>
-            <guid>https://blog.deep-sea.ggff.net/posts/2025/0524</guid>
+            <link>https://blog.deep-sea.filegear-sg.me/posts/2025/0524</link>
+            <guid>https://blog.deep-sea.filegear-sg.me/posts/2025/0524</guid>
             <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[修改metingapi歌曲数量限制的方法]]></description>
             <author>lcx1029lcx1029@dingtalk.com (深海)</author>
         </item>
         <item>
             <title><![CDATA[NPM、PNPM 和 NPX 超详细教程]]></title>
-            <link>https://blog.deep-sea.ggff.net/posts/2025/0505</link>
-            <guid>https://blog.deep-sea.ggff.net/posts/2025/0505</guid>
+            <link>https://blog.deep-sea.filegear-sg.me/posts/2025/0505</link>
+            <guid>https://blog.deep-sea.filegear-sg.me/posts/2025/0505</guid>
             <pubDate>Mon, 05 May 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[NPM、PNPM 和 NPX 超详细教程]]></description>
             <author>lcx1029lcx1029@dingtalk.com (深海)</author>
         </item>
         <item>
             <title><![CDATA[《無名の主页终极部署手册：从API到彩蛋的保姆级教学》]]></title>
-            <link>https://blog.deep-sea.ggff.net/posts/2025/0421</link>
-            <guid>https://blog.deep-sea.ggff.net/posts/2025/0421</guid>
+            <link>https://blog.deep-sea.filegear-sg.me/posts/2025/0421</link>
+            <guid>https://blog.deep-sea.filegear-sg.me/posts/2025/0421</guid>
             <pubDate>Mon, 21 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[搭建無名の主页的保姆级教程]]></description>
             <author>lcx1029lcx1029@dingtalk.com (深海)</author>
         </item>
         <item>
             <title><![CDATA[Node.js保姆级安装与配置教程]]></title>
-            <link>https://blog.deep-sea.ggff.net/posts/2025/0420</link>
-            <guid>https://blog.deep-sea.ggff.net/posts/2025/0420</guid>
+            <link>https://blog.deep-sea.filegear-sg.me/posts/2025/0420</link>
+            <guid>https://blog.deep-sea.filegear-sg.me/posts/2025/0420</guid>
             <pubDate>Sun, 20 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[从零开始完成Node.js环境部署，包含下载安装、环境配置及常见问题解决方案]]></description>
             <author>lcx1029lcx1029@dingtalk.com (深海)</author>
         </item>
         <item>
             <title><![CDATA[如何像煮泡面一样安装操作系统？]]></title>
-            <link>https://blog.deep-sea.ggff.net/posts/2025/0401</link>
-            <guid>https://blog.deep-sea.ggff.net/posts/2025/0401</guid>
+            <link>https://blog.deep-sea.filegear-sg.me/posts/2025/0401</link>
+            <guid>https://blog.deep-sea.filegear-sg.me/posts/2025/0401</guid>
             <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[用厨房大作战的方式完成系统安装，全程无科学依据但充满欢乐]]></description>
             <author>lcx1029lcx1029@dingtalk.com (深海)</author>
         </item>
         <item>
             <title><![CDATA[欢迎使用 Curve]]></title>
-            <link>https://blog.deep-sea.ggff.net/posts/2024/1010</link>
-            <guid>https://blog.deep-sea.ggff.net/posts/2024/1010</guid>
+            <link>https://blog.deep-sea.filegear-sg.me/posts/2024/1010</link>
+            <guid>https://blog.deep-sea.filegear-sg.me/posts/2024/1010</guid>
             <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
             <description><![CDATA[欢迎使用 Curve 主题，这是你的第一篇文章]]></description>
             <author>lcx1029lcx1029@dingtalk.com (深海)</author>
